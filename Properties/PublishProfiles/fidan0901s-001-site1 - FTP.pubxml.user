@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAt5ffJLaRM0OhmE7FTKcZuwAAAAACAAAAAAAQZgAAAAEAACAAAADG+JZ21Fq1kKpMYyYL2bzlB+kvqREN0y2b8DaUVQaz+QAAAAAOgAAAAAIAACAAAAAn4dSu5KI3F2d07l0QTCUYKZRNOU3+8zqhO1eVQO0ymSAAAAC5O0R5zK3Nj+KTDkJ7ncqiW1Wb5YNMljtTlH8qb4+Az0AAAACLFdm4G0K7I+LN9oY+tJGMlTlcdSwYD8FoN5yT3K+aJXCGDtjP14PzNEKMlouIuU5fAqK3m3vxlwVNjUWYzqlB</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win5028.site4now.net:21/site1</_PublishTargetUrl>
+    <History>False|2023-07-14T21:41:53.3597460Z;False|2023-07-15T01:16:20.8548372+04:00;False|2023-07-15T01:15:36.4114507+04:00;False|2023-07-15T01:14:09.2456270+04:00;False|2023-07-15T01:12:46.0912988+04:00;False|2023-07-15T01:05:34.8964163+04:00;False|2023-07-15T01:01:44.0024685+04:00;False|2023-07-15T01:01:08.4547805+04:00;False|2023-07-15T00:57:01.6651638+04:00;False|2023-07-15T00:55:31.8226306+04:00;</History>
+  </PropertyGroup>
+</Project>
